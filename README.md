@@ -1,16 +1,13 @@
-### Hi there!
+############  Hi there! ##########
 
-<!--
-**juliakrtz/juliakrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+'' ✧ I'm currently working on two EU funded projects to create climate services and system architecture''
+
+'' ✧ I work with Python and GIS software ''
+
+'' ✧ My interests include climate change and adaptation, disaster-risk, and creating human-centered geospatial solutions ''
+
+
+
+
